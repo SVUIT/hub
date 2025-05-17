@@ -1,44 +1,36 @@
-import React, { JSX } from 'react';
+import type {ReactNode} from 'react';
+import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import { useAllDocsData } from '@docusaurus/plugin-content-docs/client';
-import Card from '@site/src/components/HomepageFeatures/Card';
-import Link from '@docusaurus/Link';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Heading from '@theme/Heading';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
-type DocMeta = {
-  id: string;
-  title: string;
-  description?: string;
-  permalink: string;
-};
+import styles from './index.module.css';
 
-export default function Home(): JSX.Element {
-  const allDocsData = useAllDocsData();
-  const docsPlugin = allDocsData['default']; 
-
-  const docItems = (docsPlugin?.versions[0]?.docs as unknown as DocMeta[]) || [];
-
+function HomepageHeader() {
+  const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout title="Trang chủ" description="Hiển thị các thẻ từ docs">
-      <main className="container margin-vert--lg">
-        <div className="row">
-          {docItems.map((doc) => (
-            <div key={doc.id} className="col col--4 margin-bottom--lg">
-              <Card shadow="md">
-                <div className="card__header">
-                  <h3>{doc.title}</h3>
-                </div>
-                <div className="card__body">
-                  <p>{doc.description}</p>
-                </div>
-                <div className="card__footer">
-                  <Link className="button button--primary button--block" to={doc.permalink}>
-                    Xem chi tiết
-                  </Link>
-                </div>
-              </Card>
-            </div>
-          ))}
-        </div>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <div className="container">
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+      </div>
+    </header>
+  );
+}
+
+export default function Home(): ReactNode {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <Layout
+      title={`Hello from ${siteConfig.title}`}
+      description="Description will go into a meta tag in <head />"
+    >
+      <HomepageHeader />
+      <main>
+        <HomepageFeatures />
       </main>
     </Layout>
   );
