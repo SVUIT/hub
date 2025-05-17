@@ -1,7 +1,3 @@
----
-sidebar_position: 11
----
-
 # Airtable Student Plan
 
 Link: https://airtable.com/
