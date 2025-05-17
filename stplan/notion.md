@@ -1,7 +1,3 @@
----
-sidebar_position: 7
----
-
 # Notion For Education
 
 Link: https://www.notion.com/product/notion-for-education
@@ -9,8 +5,8 @@ Link: https://www.notion.com/product/notion-for-education
 ## Đăng ký
 
 - Bước 1: Truy cập đường link và nhấn Get Notion free để bắt đầu đăng ký
-- Bước 2: Đăng nhập hoặc tạo tài khoản Notion
-- Bước 3: Vào phần Settings & Members → Plans
-- Bước 4: Ở mục Workspace, kiểm tra nếu chưa được nâng cấp thì chọn Upgrade to Plus plan for free
-- Bước 5: Nhập email sinh viên
-- Bước 6: Xác minh email bằng cách xác nhận email được gửi về hòm thư sinh viên hoặc gửi ảnh thẻ sinh viên
+- Bước 2: Đăng nhập hoặc tạo tài khoản Notion bằng email sinh viên
+- Bước 3: Vào phần Settings → Upgrade plan
+- Bước 4: Chọn education plan và notion sẽ tự động xác thực
+- Bước 5: Kiểm tra phần billing nếu thấy Plan Education Plus là thành công
+![alt text](images/image-7.png)

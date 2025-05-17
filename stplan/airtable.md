@@ -6,8 +6,11 @@ Link: https://airtable.com/
 
 - Bước 1: Đăng nhập vào Airtable
 - Bước 2: Ở trang home chọn Compare Plan
+![alt text](images/image.png)
 - Bước 3: Kéo xuống dưới cùng và chọn Education Plan
+![alt text](images/image-1.png)
 - Bước 4: Điền thông tin vào form gồm:
+![alt text](images/image-2.png)
     - Họ tên, trường học, website trường học, vị trí của bạn trong trường học
     - Email sinh viên
     - Lí do vì sao dùng Airtable

@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # Figma For Education
 
 Link: https://www.figma.com/education/
@@ -14,4 +10,6 @@ Link: https://www.figma.com/education/
 - Bước 4: Chọn trường học và ngành học
 - Bước 5: Đăng tải lịch học hoặc bảng điểm
 - Bước 6: Nhập thời gian tốt nghiệp
+
+![alt text](images/image-4.png)
 

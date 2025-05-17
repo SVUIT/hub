@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Azure Free Credit For Students
 
 Link: https://azure.microsoft.com/en-us/free/students/
