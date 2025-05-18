@@ -8,9 +8,7 @@ Apple Store dành cho sinh viên là chương trình đặc biệt mang đến c
 
 ## Ưu đãi
 
-- Giảm đến 10% trên các sản phẩm Mac
-- Giảm đến 5% trên các sản phẩm iPad
-- Giảm giá đặc biệt trên Apple Pencil và Smart Keyboard
+- Giảm giá trên các sản phẩm như MacBook, Mac Mini, iPad, Apple Pencil, Smart Keyboard, AppleCare+ cho Mac và AppleCare+ cho iPad.
 
 ## Đăng ký
 

@@ -6,7 +6,7 @@ Link: [https://www.youtube.com/premium/student](https://www.youtube.com/premium/
 Gói YouTube Premium sinh viên dành riêng cho học sinh/sinh viên đang theo học tại các trường đại học, cao đẳng được công nhận. Tận hưởng trải nghiệm YouTube không quảng cáo với mức giá ưu đãi.
 
 ## Ưu đãi
-* **Giá sinh viên ưu đãi:** 29.000đ/tháng (tiết kiệm 51% so với gói thường 59.000đ)
+* **Giá sinh viên ưu đãi:** 49.000đ/tháng (so với gói thường 79.000đ)
 * **Tính năng cao cấp:**
   - Xem video không quảng cáo
   - Nghe nhạc nền khi tắt màn hình

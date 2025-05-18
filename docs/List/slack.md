@@ -8,11 +8,7 @@ Slack là một nền tảng giao tiếp và cộng tác nhóm phổ biến, đ�
 
 ## Ưu đãi
 
-* **Giảm giá sâu:**
-  - Giảm đến 85% so với gói thương mại
-  - Chỉ từ $0.99/user/tháng cho gói Pro
-
-* **Tính năng cao cấp:**
+* Giảm đến 85% so với gói thương mại. Bao gồm các tính năng trong bản Pro như:
   - Kết nối không giới hạn với các tổ chức ngoài
   - Lịch sử tin nhắn không giới hạn
   - Hội nghị truyền hình chất lượng cao
