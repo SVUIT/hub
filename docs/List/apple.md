@@ -4,7 +4,7 @@ Link: https://www.apple.com/vn-edu/store
 
 ## Giới thiệu
 
-Apple Store dành cho sinh viên là chương trình đặc biệt của Apple, mang đến cơ hội mua các sản phẩm và phụ kiện Apple với mức giá ưu đãi dành riêng cho sinh viên đang theo học tại các trường cao đẳng và đại học đủ điều kiện. Chương trình này giúp sinh viên tiếp cận các công nghệ của Apple, hỗ trợ học tập và phát triển với chi phí hợp lý hơn.
+Apple Store dành cho sinh viên là chương trình đặc biệt mang đến cơ hội mua các sản phẩm và phụ kiện của Apple với mức giá ưu đãi dành riêng cho sinh viên đang theo học tại các trường cao đẳng và đại học đủ điều kiện. Chương trình này giúp sinh viên tiếp cận các công nghệ của Apple, hỗ trợ học tập và phát triển với chi phí hợp lý hơn.
 
 ## Ưu đãi
 
