@@ -1,4 +1,4 @@
-# YouTube Premium - Gói Sinh Viên
+# YouTube Premium - Student Plan
 
 Link: [https://www.youtube.com/premium/student](https://www.youtube.com/premium/student)
 

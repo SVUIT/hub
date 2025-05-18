@@ -8,8 +8,8 @@ UiTiOt LaTeX Editor là một trình soạn thảo LaTeX trực tuyến được
 
 ## Tính năng
 
-* Dùng được mọi tính năng của [Overleaf](https://www.overleaf.com/)
-* Mời cộng tác viên (collaborator) không giới hạn
+* Dùng được mọi tính năng của [Overleaf](https://www.overleaf.com/).
+* Mời cộng tác viên (collaborator) không giới hạn.
 
 ## Đăng ký
 

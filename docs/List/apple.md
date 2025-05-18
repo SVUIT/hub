@@ -1,4 +1,4 @@
-# Apple Store - Ưu đãi dành cho sinh viên
+# Apple Store - Student Discount
 
 Link: https://www.apple.com/vn-edu/store 
 

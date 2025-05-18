@@ -70,3 +70,9 @@
   padding-right: 15px;
   box-sizing: border-box; 
 }
+
+.logo-fixed-size {
+  width: 55px;   
+  height: 55px;  
+  object-fit: contain;
+}
