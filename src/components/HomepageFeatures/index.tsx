@@ -43,8 +43,8 @@ export default function HomepageFeatures(): JSX.Element {
       <div className="container">
         <div className="row">
           {CardComponents.map((Card, idx) => (
-            <div key={idx} className="col col--4">
-              <div className="card" style={{ marginBottom: '20px' }}>
+            <div key={idx} className={`col col--4 ${styles.cardWrapper}`}>
+              <div className={`card ${styles.cardCustom}`}>
                 <div className="card__body">
                   <Card />
                 </div>
