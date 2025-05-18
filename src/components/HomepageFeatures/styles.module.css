@@ -1,7 +1,7 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 0.2rem 0;
+  padding: 0.1rem 0;
   width: 100%;
 }
 
@@ -13,19 +13,55 @@
 .cardWrapper {
   padding-top: 20px;
   padding-bottom: 20px;
+  display: flex;
 }
 
 .cardCustom {
-  border: 1px solid #ddd; 
+  border: 1px solid #ddd;
   border-radius: 6px;
+  padding: 20px;
+  width: 100%;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  height: 100%;
 }
 
 [data-theme='dark'] .cardCustom {
-  border: none; 
+  border: none;
 }
 
 .cardCustom:hover {
   transform: translateY(-4px);
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.25);
 }
+
+.cardLayout {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.imageWrapper {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.cardImage {
+  width: 80px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.cardTitle {
+  margin-top: 0;
+}
+
+.cardContent {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
