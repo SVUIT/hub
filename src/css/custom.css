@@ -28,3 +28,45 @@
   --ifm-color-primary-lightest: #be8cf7;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.33);
 }
+
+.navbar {
+  height: 80px;
+}
+
+.navbar__inner {
+  max-width: 1325px; 
+  margin: 0 auto;
+  padding: 0 1rem; 
+  box-sizing: border-box;
+}
+
+.navbar__title {
+  font-size: 1.4rem; 
+  font-weight: 600;
+}
+
+.navbar__logo img {
+  height: 48px; 
+  width: auto;  
+}
+
+.navbar__items {
+  display: flex;
+  align-items: center; 
+}
+
+.navbar__items img {
+  height: 36px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.container {
+  max-width: l240px;      
+  margin-left: auto;      
+  margin-right: auto;
+  padding-left: 15px;     
+  padding-right: 15px;
+  box-sizing: border-box; 
+}
