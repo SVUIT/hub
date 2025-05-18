@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'SVUIT',
-  tagline: 'Ghi cho đỡ trống',
+  title: 'UIT Resource Hub',
+  tagline: 'Nơi tổng hợp những ưu đãi của các dịch vụ/phần mềm cho sinh viên UIT',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
