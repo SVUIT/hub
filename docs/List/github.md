@@ -29,7 +29,7 @@ Với GitHub Education, sinh viên sẽ được hưởng các lợi ích sau:
 * **Gói ưu đãi từ các đối tác:** Quyền truy cập miễn phí hoặc giảm giá cho nhiều công cụ và dịch vụ phát triển phổ biến khác thông qua GitHub Student Developer Pack, bao gồm:
   - JetBrains (IntelliJ IDEA, PyCharm, v.v.)
   - Namecheap (miễn phí tên miền .me trong 1 năm)
-  - Microsoft Azure, DigitalOcean, Heroku (tín dụng dịch vụ đám mây)
+  - Microsoft Azure, DigitalOcean, Heroku (credit miễn phí)
   - DataCamp, Educative, Frontend Masters (khóa học lập trình)
   - MongoDB Atlas, GitKraken, GitLens, và nhiều hơn nữa.
 
