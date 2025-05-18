@@ -1,11 +1,31 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 0.2rem 0;
   width: 100%;
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+.cardWrapper {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.cardCustom {
+  border: 1px solid #ddd; 
+  border-radius: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+[data-theme='dark'] .cardCustom {
+  border: none; 
+}
+
+.cardCustom:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.25);
 }
