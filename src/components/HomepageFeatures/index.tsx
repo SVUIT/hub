@@ -14,7 +14,7 @@ function CardLayout({ title, tags = [], children }: CardLayoutProps) {
   return (
     <>
       <h3 style={{ marginTop: 0 }}>{title}</h3>
-      <div style={{ fontSize: '0.95rem', lineHeight: '1.6' }}>{children}</div>
+      <div className={styles.cardContent}>{children}</div>      
       {tags.length > 0 && (
         <div style={{ marginTop: '10px' }}>
           {tags.map((tag, idx) => (
