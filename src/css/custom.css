@@ -226,70 +226,48 @@ html[data-theme='light'] .logo-dark {
   background-color: #2A282F;
 }
 
-.footer__link-item,
-.footer__title {
+.custom-footer {
   display: flex;
-  justify-content: center; 
   flex-direction: column;
-  align-items: center; 
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 1rem;
+  max-width: 1200px;
+  text-align: center; 
 }
 
-.footer__link-item {
-  padding: 10px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-.footer__link-item > svg {
-  display: none;
-}
-
-.footer__title {
+.custom-footer .footer-title {
+  display: flex;
+  align-items: center;
+  font-weight: 300px;
+  font-size: 40px;
+  margin-bottom: -20px;
+  letter-spacing: 2px;
+  text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-weight: 30; 
-  font-size: 40px; 
-  color: #3a61d8; 
-  letter-spacing: 2px; 
-  background: linear-gradient(90deg, #803BF2 40%, #414FED 45%, #2BC2F8 62%, #00FFC7 64%);
+  background: linear-gradient(90deg, #803BF2 30%, #414FED 45%, #2BC2F8 62%, #00FFC7 95%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-clip: text;
-  color: transparent;
-  margin-top: 20px;
-  text-align: center;
 }
 
-@media (max-width: 1199px) {
-  .footer__link-item {
-    width: 100%; 
-    align-items: center;
-  }
-  .footer__title {
-    font-size: 36px;
-  }
+.custom-footer .footer-links a {
+  color: #b3b3b3;
+  text-decoration: none;
+  transition: color 0.2s;
+  margin: -10px 10px;
 }
 
-@media (max-width: 767px) {
-  .footer__title {
-    font-size: 32px;
-  }
+.footer-links a:hover {
+  color: #ffffff;
 }
 
-@media (max-width: 479px) {
-  .footer__title {
-    font-size: 30px;
-  }
+.separator {
+  color: #777;
 }
 
-.custom-social-icons {
-  display: flex;           
-  justify-content: center; 
-  align-items: center;     
-  gap: 60px;               
+.custom-footer .footer-icons img {
+  height: 22px;
+  width: 23px;
+  margin: 0px 10px;
 }
-
-.custom-social-icons img {
-  width: 28px;
-  height: 28px;
-}
-
-
