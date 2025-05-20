@@ -13,7 +13,7 @@ const config: Config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/hub/',
+  baseUrl: '/uit-resource-hub/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -80,33 +80,46 @@ const config: Config = {
           //position: 'left',
           //label: 'Tutorial',
         //},
-      ],
-    },
-    footer: {
+          { href: 'https://svuit.org/mmtt/', 
+            label: 'Kho tài liệu', 
+            position: 'right', 
+          },
+          { href: 'https://svuit.org/mmtt/docs/contribute', 
+            label: 'Đóng góp', 
+            position: 'right', 
+          },
+          { href: 'https://svuit.org/mmtt/docs/ThongBao/index', 
+            label: 'Thông báo', 
+            position: 'right', 
+          },
+        ],
+      },
+      footer: {
       style: 'dark',
       links: [
         {
           title: 'STUDY VAULT OF UIT',
-          items: [],
-        },
-        {
-          title: 'Kho tài liệu',
-          items: [],
-        },
-        {
-          title: 'Đóng góp',
-          items: [],
-        },
-        {
-          title: 'Thông báo',
-          items: [],
-        },
-        {
-          title: 'Stay in touch',
-          items: [],
+          items: [
+            { href: 'https://svuit.org/mmtt/', label: 'Kho tài liệu' },
+            { href: 'https://svuit.org/mmtt/docs/contribute', label: 'Đóng góp' },
+            { href: 'https://svuit.org/mmtt/docs/ThongBao/index', label: 'Thông báo' },
+          ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} <a href="/report-bug">Báo cáo bug tại đây</a>`,
+      // Chèn icon ở phần dưới cùng
+      copyright: `
+        <div class="custom-social-icons">
+          <a href="https://www.facebook.com/studyvault.uit" target="_blank" rel="noopener">
+            <img src="img/icons/facebook.png" alt="Facebook" />
+          </a>
+          <a href="https://github.com/SVUIT/mmtt/releases" target="_blank" rel="noopener">
+            <img src="img/icons/github.png" alt="YouTube" />
+          </a>
+          <a href="https://www.youtube.com/@svuit-mmtt" target="_blank" rel="noopener">
+            <img src="img/icons/youtube.png" alt="YouTube" />
+          </a>
+        </div>
+      `,
     },
     prism: {
       theme: prismThemes.github,
