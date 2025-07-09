@@ -6,7 +6,7 @@ Link: [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft
 
 Azure Free Credit dành cho sinh viên là chương trình của Microsoft Azure, cung cấp khoản tín dụng miễn phí và các dịch vụ Azure chọn lọc cho sinh viên đủ điều kiện. Chương trình này tạo điều kiện để sinh viên làm quen, học tập và phát triển các ứng dụng trên nền tảng đám mây Azure, hỗ trợ cho các dự án học tập và nghiên cứu.
 
-**Lưu ý:** Do Microsoft đã chặn tên miền email `@ms.uit.edu.vn`, sinh viên UIT không thể đăng ký trực tiếp bằng email trường. Để đăng ký thành công, bạn cần đăng ký GitHub Student trước và dùng email đã được xác nhận trong GitHub Student để đăng ký Azure for Students. Tuyệt đối **không sử dụng email có đuôi `@ms.uit.edu.vn`** khi đăng ký Azure.
+**Lưu ý**: Tài khoản Azure sử dụng email có đuôi `@ms.uit.edu.vn` hiện tại sẽ bị cấu hình chính sách `deny all assignment`, dẫn đến **không thể** tạo bất kỳ resource nào trên Azure, kể cả khi đã nhận được credit. Vì vậy, sinh viên UIT cần đăng ký GitHub Student trước và sử dụng email khác không phải @ms.uit.edu.vn để đăng ký Azure for Students.
 
 # Ưu đãi
 
