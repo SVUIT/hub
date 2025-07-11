@@ -36,7 +36,8 @@ Với GitHub Education, sinh viên sẽ được hưởng các lợi ích sau:
 ## Đăng ký
 
 - **Bước 1:** Đăng nhập vào tài khoản GitHub hiện có của bạn.
-- **Bước 2:** Truy cập mục **Education Benefits** (Quyền lợi giáo dục).
-- **Bước 3:** Chọn vai trò của bạn (ví dụ: Student), nhập tên trường học và địa chỉ email sinh viên của bạn. **Lưu ý:** Nếu tài khoản GitHub của bạn được tạo bằng email cá nhân, bạn cần thêm địa chỉ email sinh viên vào tài khoản GitHub của mình.
-- **Bước 4:** Chụp ảnh thẻ sinh viên của bạn. Đảm bảo rằng ảnh chụp rõ ràng và bao gồm đầy đủ các thông tin sau: **ngày hết hạn** của thẻ và **mã số sinh viên**.
+- **Bước 2:** Vào mục Settings, bật tính năng xác thực hai yếu tố (2FA) và cập nhật thông tin trong Billing Information. **Lưu ý:** Để tăng khả năng được chấp nhận, bạn nên sử dụng tên GitHub trùng khớp với tên trên thẻ sinh viên và trong phần Billing Information.
+- **Bước 3:** Truy cập mục **Education Benefits** (Quyền lợi giáo dục).
+- **Bước 4:** Chọn vai trò của bạn (ví dụ: Student), nhập tên trường học và địa chỉ email sinh viên của bạn. **Lưu ý:** Nếu tài khoản GitHub của bạn được tạo bằng email cá nhân, bạn cần thêm địa chỉ email sinh viên vào tài khoản GitHub của mình.
+- **Bước 5:** Chụp ảnh thẻ sinh viên của bạn. Đảm bảo rằng ảnh chụp rõ ràng và bao gồm đầy đủ các thông tin sau: **ngày hết hạn** của thẻ và **mã số sinh viên**.
 ![alt text](images/image-5.png)
