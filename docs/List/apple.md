@@ -21,7 +21,6 @@ Chương trình Apple Back to School Việt Nam là ưu đãi mùa tựu trư�
     Đối với chương trình Apple Back To School, bạn nên xem các phụ kiện tặng kèm sản phẩm chọn mua trong Link thông tin chi tiết chương trình.
 - **Bước 3:** Apple sẽ xác thực bạn là sinh viên thông qua UNiDAYS.
 - **Bước 4:** Đăng ký tài khoản UNiDAYS.
-- **Bước 5:** Chọn trường học của bạn và nhập địa chỉ email sinh viên.
-    Chọn trường học: Ho Chi Minh City University of Information Technology
+- **Bước 5:** Chọn trường học: Ho Chi Minh City University of Information Technology, và nhập địa chỉ email sinh viên.
 - **Bước 6:** Truy cập hộp thư đến của email sinh viên và xác minh tài khoản UNiDAYS.
 ![alt text](images/image-3.png)
