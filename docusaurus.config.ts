@@ -111,7 +111,7 @@ const config: Config = {
       <a href="https://www.facebook.com/studyvault.uit" target="_blank" rel="noopener">
         <img src="img/icons/facebook.png" alt="Facebook" />
       </a>
-      <a href="https://github.com/SVUIT/mmtt/releases" target="_blank" rel="noopener">
+      <a href="https://github.com/SVUIT/hub" target="_blank" rel="noopener">
         <img src="img/icons/github.png" alt="GitHub" />
       </a>
       <a href="https://www.youtube.com/@svuit-mmtt" target="_blank" rel="noopener">
