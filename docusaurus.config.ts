@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'UIT Resource Hub',
-  tagline: 'Nơi tổng hợp những ưu đãi của các dịch vụ/phần mềm cho sinh viên UIT',
+  tagline: 'Website tổng hợp và cập nhật các ưu đãi phần mềm bản quyền cho sinh viên UIT.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

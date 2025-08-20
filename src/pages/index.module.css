@@ -3,12 +3,28 @@
  * and scoped locally.
  */
 
+/* Light mode */
+html[data-theme='light'] .heroBanner {
+  background-image: url('/static/img/hero-bg-light.svg');
+}
+
+/* Dark mode */
+html[data-theme='dark'] .heroBanner {
+  background-image: url('/static/img/hero-bg-dark.svg');
+}
+
 .heroBanner {
-  padding: 10rem 0;
-  text-align: center;
+  padding-top: 10rem;   
+  padding-bottom: 5rem; 
+  padding-left: 0;
+  padding-right: 0;
   position: relative;
   overflow: hidden;
   margin-bottom: 3rem;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 996px) {
@@ -21,5 +37,5 @@
 .buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
