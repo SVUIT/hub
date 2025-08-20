@@ -1,0 +1,320 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #8f38f2;
+  --ifm-color-primary-dark: #7f1cf0;
+  --ifm-color-primary-darker: #7710ee;
+  --ifm-color-primary-darkest: #620dc4;
+  --ifm-color-primary-light: #9f54f4;
+  --ifm-color-primary-lighter: #a762f5;
+  --ifm-color-primary-lightest: #be8cf7;
+  --ifm-code-font-size: 95%;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #8f38f2;
+  --ifm-color-primary-dark: #7f1cf0;
+  --ifm-color-primary-darker: #7710ee;
+  --ifm-color-primary-darkest: #620dc4;
+  --ifm-color-primary-light: #9f54f4;
+  --ifm-color-primary-lighter: #a762f5;
+  --ifm-color-primary-lightest: #be8cf7;
+}
+
+.navbar {
+  height: 80px;
+}
+
+.navbar__inner {
+  max-width: 1240px; 
+  margin: 0 auto;
+  padding: 0 1rem; 
+  box-sizing: border-box;
+}
+
+.navbar__title {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.6rem; 
+  font-weight: 700;
+}
+
+.navbar__logo img {
+  height: 36px; 
+  width: auto;  
+}
+
+.navbar__items {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 100;
+  display: flex;
+  align-items: center; 
+}
+
+.navbar__items img {
+  height: 36px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.navbar__link {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Segoe UI Emoji";
+  font-weight: 400;
+  font-size: medium;
+}
+
+.navbar__link > svg {
+  display: none;
+}
+
+.container {
+  max-width: 1240px;      
+  margin-left: auto;      
+  margin-right: auto;
+  padding-left: 15px;     
+  padding-right: 15px;
+  box-sizing: border-box; 
+}
+
+.logo-fixed-size {
+  width: 55px;   
+  height: 55px;  
+  object-fit: contain;
+}
+
+.hero__title {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Segoe UI Emoji";
+  font-weight: 800; 
+  font-size: 3.5rem;
+  text-align: left;
+}
+
+.hero__subtitle {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Segoe UI Emoji";
+  font-weight: 400; 
+  font-size: 1.5rem;
+  text-align: left;
+  
+}
+
+.hero__button {
+  background: #2F006C;
+  margin-top: 3rem;
+  padding: 0.7rem 2rem;   /* to hơn (trên-dưới, trái-phải) */
+  font-size: 1.2rem;      /* chỉnh chữ to hơn */
+  border-radius: 10px;  
+}
+
+.hero__button:hover {
+  background: #4A00B5;
+}
+
+@media (min-width: 1920px) {
+  .navbar__inner,
+  .container {
+    max-width: 1920px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .hero__title {
+    font-size: 3.5rem;
+  }
+  .hero__subtitle {
+    font-size: 1.75rem;
+  }
+
+  .hero__button {
+    margin-top: 3.5rem;
+    padding: 0.9rem 2.5rem;
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar {
+    height: 60px;
+  }
+  .navbar__title {
+    font-size: 1.3rem;
+  }
+  .navbar__link {
+    font-size: 0.9rem;
+  }
+  .navbar__logo img {
+    height: 30px;
+  }
+  .navbar__items {
+    font-weight: 300;
+  }
+  .hero__title {
+    font-size: 2.5rem;
+  }
+  .hero__subtitle {
+    font-size: 1.25rem;
+  }
+  .hero__button {
+    margin-top: 2.5rem;
+    padding: 0.7rem 2rem;
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar {
+    height: 50px;
+  }
+  .navbar__title {
+    font-size: 1.1rem;
+  }
+  .navbar__link {
+    font-size: 0.85rem;
+  }
+  .navbar__logo img {
+    height: 24px;
+  }
+  .navbar__items {
+    font-weight: 300;
+  }
+  .hero__title {
+    font-size: 2rem;
+  }
+  .hero__subtitle {
+    font-size: 1rem;
+  }
+  .hero__button {
+    margin-top: 2rem;
+    padding: 0.6rem 1.8rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 479px) {
+  .navbar {
+    height: 45px;
+  }
+  .navbar__title {
+    font-size: 1rem;
+  }
+  .navbar__link {
+    font-size: 0.8rem;
+  }
+  .navbar__logo img {
+    height: 20px;
+  }
+  .navbar__items {
+    font-weight: 300;
+  }
+  .hero__title {
+    font-size: 1.4rem;
+  }
+  .hero__subtitle {
+    font-size: 0.85rem;
+  }
+  .hero__button {
+    margin-top: 1rem;
+    padding: 0.5rem 1.5rem;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+}
+
+.logo-wrapper img {
+  width: 60px;
+  height: auto;
+  display: block;
+}
+
+html[data-theme='light'] .logo-dark {
+  display: none !important;
+}
+
+[data-theme='dark'] .logo-light {
+  display: none;
+}
+
+[data-theme='dark'] .logo-dark {
+  display: block;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.social-icons a img {
+  width: 24px;
+  height: 24px;
+  filter: brightness(100%);
+  transition: transform 0.2s ease;
+}
+
+.footer {
+  margin-top: 100px;
+  background-color: #2A282F;
+}
+
+.custom-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 1rem;
+  max-width: 1200px;
+  text-align: center; 
+}
+
+.custom-footer .footer-title {
+  display: flex;
+  align-items: center;
+  font-weight: 300px;
+  font-size: 40px;
+  margin-bottom: -20px;
+  letter-spacing: 2px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background: linear-gradient(90deg, #803BF2 30%, #414FED 45%, #2BC2F8 62%, #00FFC7 95%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.custom-footer .footer-links a {
+  color: #b3b3b3;
+  text-decoration: none;
+  transition: color 0.2s;
+  margin: -10px 10px;
+}
+
+.footer-links a:hover {
+  color: #ffffff;
+}
+
+.separator {
+  color: #777;
+}
+
+.custom-footer .footer-icons img {
+  height: 22px;
+  width: 23px;
+  margin: 0px 10px;
+}
+
+html[data-theme='light'] .hero__title,
+html[data-theme='light'] .hero__subtitle {
+  color: #000000 !important;
+}
+
+html[data-theme='dark'] .hero__title,
+html[data-theme='dark'] .hero__subtitle,
+html[data-theme='dark'] .hero__button {
+  color: #ffffff !important;
+}
+
