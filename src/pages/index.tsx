@@ -13,9 +13,19 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          UIT <br /> Resource Hub
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className="buttons">
+          <a
+            className="button hero__button"
+            href="https://svuit.org/mmtt/docs/contribute"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Đóng góp
+          </a>
+        </div>
       </div>
     </header>
   );
