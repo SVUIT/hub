@@ -1,4 +1,5 @@
 # Microsoft 365 Personal - College Student Pricing 
+*Thời gian đăng ký: đến **31/10/2025** hoặc đến khi hết nguồn cung.*
 
 Link: https://www.microsoft.com/en-us/microsoft-365/college-student-pricing
 
@@ -8,7 +9,7 @@ Microsoft muốn hỗ trợ sinh viên tiếp cận các công cụ năng suất
 
 ## Ưu đãi
 
-![alt text](images/image13.png)
+![alt text](images/microsoft_1.png)
 
 * **Microsoft 365 Personal:** 
 
@@ -24,14 +25,14 @@ Microsoft muốn hỗ trợ sinh viên tiếp cận các công cụ năng suất
 - **Bước 1:** Truy cập trang Microsoft 365 Personal - College Student Pricing theo đường link trên và nhấn nút **Sign up** để bắt đầu nhận ưu đãi.
 - **Bước 2:** Đăng nhập vào tài khoản Microsoft của bạn hoặc bằng địa chỉ email của bạn.
 - **Bước 3:** Sau khi đăng nhập sẽ hiển thị các bước mua Microsoft 365 Personal miễn phí 12 tháng. 
-![alt text](images/image14.png)
+![alt text](images/microsoft_2.png)
 Nhấp vào *Tiếp theo*.
 - **Bước 4:** **Thêm phương thức thanh toán** bằng cách điền thông tin thẻ tín dụng hoặc thẻ ghi nợ.
-![alt text](images/image15.png)
+![alt text](images/microsoft_3.png)
 Các bạn nhớ kiểm tra lại *Mã bưu điện* với địa chỉ các bạn sau khi sáp nhập Tỉnh.
-![alt text](images/image16.png)
+![alt text](images/microsoft_4.png)
 
 - **Bước 5:** **Xác nhận đăng ký** 
-![alt text](images/image17.png)
+![alt text](images/microsoft_5.png)
 Nhập vào mail sinh viên của bạn để Microsoft xác minh học thuật và hoàn tất xác nhận đăng ký.
-![alt text](images/image18.png)
+![alt text](images/microsoft_6.png)
