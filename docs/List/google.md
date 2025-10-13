@@ -45,8 +45,6 @@ Với **Google AI Pro**, sinh viên sẽ được hưởng các lợi ích sau:
 
 **Bước 4.** Sau khi được xác minh, truy cập lại *Google One* → chọn *“Đăng ký Google AI Pro”* → *“Nhận ưu đãi cho sinh viên”*.  
 
-   ![alt text](images/image-gg-4.png)
-
 **Bước 5.** Thêm hoặc chọn phương thức thanh toán để hoàn tất đăng ký.  
 
    ![alt text](images/image-gg-5.png)
@@ -56,7 +54,7 @@ Với **Google AI Pro**, sinh viên sẽ được hưởng các lợi ích sau:
 ## **Lưu ý**
 
 * Ưu đãi chỉ dành cho sinh viên từ 18 tuổi trở lên, xác minh qua SheerID và cần có **phương thức thanh toán hợp lệ**.  
-* Chương trình kết thúc **ngày 9/12/2025**. Sau thời gian miễn phí, gói sẽ tự động gia hạn theo giá thường nếu không hủy.  
+* Chương trình đăng ký kết thúc **ngày 9/12/2025**. Sau thời gian miễn phí, gói sẽ tự động gia hạn theo giá thường nếu không hủy.  
 * Nếu chỉ dùng để học hoặc trải nghiệm, hãy hủy sau 1 năm để tránh bị trừ phí.  
 * Không nên lưu dữ liệu quan trọng vào 2TB Google One nếu không có nhu cầu lâu dài, vì sau khi hết hạn, dung lượng vượt mức miễn phí có thể bị giới hạn truy cập.
 
