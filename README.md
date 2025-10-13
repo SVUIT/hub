@@ -19,6 +19,37 @@ Below is a list of current software/services that offer an education plan/discou
 10. [Airtable Student Plan](https://support.airtable.com/docs/nonprofit-and-educational-plans-faqs)*
 11. [UiTiOt LaTeX Editor](https://latex.uitiot.vn/login)
 
+## 🧩 How to Add a New Card (Resource)
+
+When you want to add a **new card** to the main page, follow these steps:
+
+### 1. Add content (markdown)
+Create a new `.md` file for the content of your card inside:
+
+```bash
+docs/List/
+```
+If your markdown content includes images, put them inside:
+
+```bash
+docs/List/images/
+```
+### 2. Add card info to homepage
+Go to:
+
+```bash
+src/data/
+```
+Add your new card entry to the appropriate .mdx file.
+
+### 3. Add the card logo
+
+Place your logo inside:
+
+```bash
+static/img/card_logo/
+```
+
 ## Development
 
 ### Installation
