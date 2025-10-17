@@ -1,7 +1,7 @@
 # Microsoft 365 Personal - College Student Pricing 
 *Thời gian đăng ký: đến **31/10/2025** hoặc đến khi hết nguồn cung.*
 
-Link: https://www.microsoft.com/en-us/microsoft-365/college-student-pricing
+Link: https://www.microsoft.com/vi-vn/microsoft-365/college-student-pricing
 
 ## Giới thiệu
 
