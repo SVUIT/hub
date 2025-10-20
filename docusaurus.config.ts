@@ -95,33 +95,33 @@ const config: Config = {
         ],
       },
       footer: {
-  style: 'dark',
-  links: [], // Xóa để tránh Docusaurus render cột mặc định
-  copyright: `
-  <div class="custom-footer">
-    <div class="footer-title">STUDY VAULT OF UIT</div>
-    <div class="footer-links">
-      <a href="https://svuit.org/mmtt/" target="_blank" rel="noopener">Kho tài liệu</a>
-      <span class="separator">|</span>
-      <a href="https://svuit.org/mmtt/docs/contribute" target="_blank" rel="noopener">Đóng góp</a>
-      <span class="separator">|</span>
-      <a href="https://svuit.org/mmtt/docs/ThongBao/index" target="_blank" rel="noopener">Thông báo</a>
-    </div>
-    <div class="footer-icons">
-      <a href="https://www.facebook.com/studyvault.uit" target="_blank" rel="noopener">
-        <img src="img/icons/facebook.png" alt="Facebook" />
-      </a>
-      <a href="https://github.com/SVUIT/hub" target="_blank" rel="noopener">
-        <img src="img/icons/github.png" alt="GitHub" />
-      </a>
-      <a href="https://www.youtube.com/@svuit-mmtt" target="_blank" rel="noopener">
-        <img src="img/icons/youtube.png" alt="YouTube" />
-      </a>
-    </div>
-  </div>
-`,
+        style: 'dark',
+        links: [], // Xóa để tránh Docusaurus render cột mặc định
+        copyright: `
+        <div class="custom-footer">
+          <div class="footer-title">STUDY VAULT OF UIT</div>
+          <div class="footer-links">
+            <a href="https://svuit.org/mmtt/" target="_blank" rel="noopener">Kho tài liệu</a>
+            <span class="separator">|</span>
+            <a href="https://svuit.org/mmtt/docs/contribute" target="_blank" rel="noopener">Đóng góp</a>
+            <span class="separator">|</span>
+            <a href="https://svuit.org/mmtt/docs/ThongBao/index" target="_blank" rel="noopener">Thông báo</a>
+          </div>
+          <div class="footer-icons">
+            <a href="https://www.facebook.com/studyvault.uit" target="_blank" rel="noopener">
+              <img src="/hub/img/icons/facebook.png" alt="Facebook" />
+            </a>
+            <a href="https://github.com/SVUIT/hub" target="_blank" rel="noopener">
+              <img src="/hub/img/icons/github.png" alt="GitHub" />
+            </a>
+            <a href="https://www.youtube.com/@svuit-mmtt" target="_blank" rel="noopener">
+              <img src="/hub/img/icons/youtube.png" alt="YouTube" />
+            </a>
+          </div>
+        </div>
+      `,
 
-},
+      },
 
     prism: {
       theme: prismThemes.github,
