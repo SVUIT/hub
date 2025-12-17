@@ -1,4 +1,5 @@
 # Google AI Pro
+*Thời gian đăng ký: đến **09/12/2025**
 
 Link: [https://one.google.com/ai-student](https://one.google.com/ai-student)
 
