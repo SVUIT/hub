@@ -1,5 +1,10 @@
 # Google AI Pro
 
+:::note[Thời gian chương trình]
+
+_**Kết thúc** ngày **09/12/2025**_.
+
+:::
 Link: [https://one.google.com/ai-student](https://one.google.com/ai-student)
 
 ## **Giới thiệu**
