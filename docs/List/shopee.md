@@ -16,10 +16,22 @@ Shopee Sinh Viên là chương trình dành cho học sinh, sinh viên sở hữ
 
 - **Bước 1:** Truy cập trang đăng ký Shopee Sinh Viên theo đường link ở trên.
 - **Bước 2:** Điền đầy đủ thông tin cá nhân gồm họ tên, ngày sinh, chọn trường UIT, nhập địa chỉ email sinh viên (đuôi `@gm.uit.edu.vn` hoặc email trường quy định).
+    <div align="center">
+
+    ![alt text](images/shopee-1.png)
+
+    </div>
 - **Bước 3:** Shopee gửi mã OTP về email sinh viên. Mở email, lấy mã OTP và nhập vào biểu mẫu để hoàn tất xác thực.
 - **Bước 4:** Vào mục ShopeeVIP trên app để kiểm tra và sử dụng voucher đã nhận (mục Kho Voucher > ShopeeVIP).
+    <div align="center">
+
+    ![alt text](images/shopee-2.png)
+
+    </div>
 
 ## Lưu ý
 
 - Email sinh viên phải còn hoạt động để nhận OTP (kiểm tra cả mục Spam nếu chưa thấy).
-- Các ưu đãi từ đối tác (như Canva Pro) là chương trình riêng, có thời hạn, không phải quyền lợi cố định đi kèm ShopeeVIP. Nếu đăng ký các ưu đãi này, lưu ý một số chương trình yêu cầu nhập phương thức thanh toán và tự động thu phí sau khi hết hạn dùng thử nếu không chủ động hủy.
+- Các ưu đãi từ đối tác (như Canva Pro) là chương trình riêng, có thời hạn, không phải quyền lợi cố định đi kèm ShopeeVIP.
+
+Nếu đăng ký các ưu đãi đối tác này, một số chương trình sẽ yêu cầu nhập phương thức thanh toán ngay từ đầu. Sau khi hết thời gian dùng thử, hệ thống sẽ **tự động gia hạn và thu phí** nếu bạn không chủ động hủy trước thời hạn, vì vậy hãy nhớ đặt lịch nhắc hủy nếu chỉ muốn dùng thử.
