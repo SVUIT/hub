@@ -11,6 +11,7 @@ Shopee Sinh Viên là chương trình dành cho học sinh, sinh viên sở hữ
 * **ShopeeVIP miễn phí 12 tháng** dành cho sinh viên, thay vì phải mua với giá 119.000đ.
 * **Quyền lợi chính của ShopeeVIP:** Voucher giảm 15% (tối đa 1.000.000đ) cho đơn hàng từ 1.000.000đ trở lên, được cấp hằng tháng trong suốt thời hạn gói.
 * **Quyền lợi bổ sung (thay đổi theo từng thời điểm):** ưu đãi phí vận chuyển, ưu đãi ShopeePay, ShopeeFood, và các ưu đãi từ đối tác (ví dụ từng có đợt Canva Pro dùng thử 3 tháng, Klook, VNPT VinaPhone...). Các ưu đãi này không cố định, sinh viên nên theo dõi mục ShopeeVIP trên app để cập nhật ưu đãi mới nhất.
+* **Ưu đãi được cộng dồn:** Nếu bạn đang có sẵn ShopeeVIP (do tự mua hoặc từ chương trình khác), khi đăng ký thành công Shopee Sinh Viên bằng email sinh viên, thời hạn 12 tháng miễn phí sẽ được cộng dồn thêm vào thời hạn gói hiện tại, không bị mất phần đã mua trước đó.
 
 ## Đăng ký
 
