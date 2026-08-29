@@ -1,20 +1,23 @@
-# Google Gemini Advanced (Google One AI Premium)
+# Google Gemini Plus (Google AI Plus)
 
 Link: [https://gemini.google/students/](https://gemini.google/students/)
 
 ## Giới thiệu
 
-Google One AI Premium là chương trình ưu đãi dành riêng cho học sinh, sinh viên có email trường (`.edu` hoặc `.edu.vn`), cho phép nhận miễn phí **1 năm gói Gemini Advanced** (thay vì trả phí khoảng 490.000đ/tháng, tương đương gần 6.000.000đ/năm). 
-
-Gói này tích hợp mô hình AI cao cấp nhất của Google trực tiếp vào hệ sinh thái Google Workspace và nâng cấp dung lượng lưu trữ đám mây.
+Google vừa chính thức triển khai gói ưu đãi **Google AI Plus** miễn phí trong 1 năm dành cho sinh viên đại học tại Việt Nam. Đây là bộ công cụ hỗ trợ xử lý dữ liệu và học tập với các tính năng vượt trội, mang lại trải nghiệm AI tối ưu nhất.
 
 ## Ưu đãi
 
-* **Miễn phí 12 tháng gói Google One AI Premium** thông qua xác thực sinh viên SheerID.
-* **Quyền truy cập Gemini Advanced:** Sử dụng các mô hình AI thế hệ mới (Gemini Ultra/Pro) với context window cực lớn, khả năng hiểu logic sâu, phân tích code và xử lý tài liệu dài phức tạp.
-* **Tích hợp sâu vào Google Workspace:** Trợ lý AI hỗ trợ viết lách, tóm tắt, tạo bảng và phân tích dữ liệu trực tiếp ngay trong Google Docs, Google Sheets, Google Slides, Gmail và Google Meet.
-* **2TB dung lượng lưu trữ đám mây:** Sử dụng chung cho Google Drive, Gmail và Google Photos với chất lượng gốc.
-* **Các tính năng Google One nâng cao:** Chia sẻ bộ nhớ cho tối đa 5 thành viên trong gia đình, các công cụ chỉnh sửa ảnh Magic Editor độc quyền trên Google Photos.
+Khi kích hoạt thành công, sinh viên sẽ nhận được các quyền lợi sau:
+* **Miễn phí 1 năm gói Google AI Plus**.
+* **Dung lượng và hạn mức:** Tài khoản được nâng cấp bộ nhớ đám mây lên **400GB** và **không giới hạn** dung lượng tải tệp tài liệu học tập.
+* **Nhân đôi hạn mức truy cập** mô hình AI.
+* **Sổ ghi chú học tập:** Tính năng giúp tự động chuyển đổi slide hay ghi chú bài giảng thành đề ôn tập, bản tóm tắt và file âm thanh.
+* **Gemini Omni:** Tính năng tạo video thông minh.
+* **Gemini Live:** Đàm thoại, giao tiếp trực tiếp với trợ lý AI.
+* **Deep Research:** Phân tích báo cáo chuyên sâu.
+* **Hỗ trợ học tập:** Giải bài tập từng bước qua tệp hình ảnh.
+* Ngoài ra, không gian làm việc của Gemini còn tích hợp tính năng **Canvas** để hỗ trợ tạo ảnh và tối ưu nội dung bài viết.
 
 ## Đăng ký
 
@@ -27,7 +30,7 @@ Gói này tích hợp mô hình AI cao cấp nhất của Google trực tiếp v
     </div>
 
 - **Bước 2: Xác minh qua SheerID**
-  Điền thông tin cá nhân, chọn trường đại học của bạn và tải lên giấy tờ chứng minh (ví dụ: thẻ sinh viên, bảng điểm) để hệ thống phê duyệt.
+  Điền thông tin và tải lên giấy tờ chứng minh bạn đang là sinh viên.
     <div align="center">
 
     ![Xác minh qua SheerID](images/gemini-2.png)
@@ -35,14 +38,16 @@ Gói này tích hợp mô hình AI cao cấp nhất của Google trực tiếp v
     </div>
 
 - **Bước 3: Kích hoạt Ưu đãi 0đ**
-  Sau khi được duyệt, hệ thống sẽ chuyển hướng bạn về trang thanh toán của Google One. Thêm phương thức thanh toán quốc tế (Visa/Mastercard) để hoàn tất kích hoạt gói Sinh viên 1 năm với giá 0đ.
+  Hoàn tất thanh toán (thêm thẻ Visa/Mastercard) để đăng ký gói Sinh viên 1 năm với giá 0đ.
     <div align="center">
 
     ![Kích hoạt ưu đãi 0đ](images/gemini-3.png)
 
     </div>
 
-## Lưu ý
+## Các lưu ý quan trọng về chính sách và cách sử dụng
 
-- Khi liên kết thẻ ngân hàng để kích hoạt, Google có thể trừ tạm ứng ~1 USD (hoặc ~24.000đ) để kiểm tra thẻ và sẽ **hoàn trả lại ngay lập tức**.
-- Sau khi kích hoạt thành công 12 tháng, hệ thống sẽ **tự động gia hạn và tính phí** khi hết chu kỳ 1 năm. Bạn có thể vào phần cài đặt Google One để hủy gia hạn bất kỳ lúc nào mà vẫn giữ trọn vẹn quyền lợi miễn phí cho đến hết 12 tháng.
+- **Gia hạn tự động:** Hệ thống sẽ tự động gia hạn với giá gốc sau khi kết thúc 12 tháng ưu đãi. Mẹo nhỏ: Ngay sau khi đăng ký, hãy vào Cài đặt Google One và **Tắt gia hạn tự động**. Bạn vẫn được dùng 1 năm miễn phí mà không lo bị trừ tiền oan!
+- **Độ tuổi và đối tượng:** Áp dụng cho sinh viên đại học từ 18 đến 24 tuổi. Ưu đãi này áp dụng cho cả tài khoản mới và **tài khoản từng dùng thử gói AI Pro năm 2025**.
+- **Xác minh điều kiện:** Hệ thống yêu cầu xác minh tư cách sinh viên định kỳ hàng năm để tiếp tục duy trì ưu đãi.
+- **Phương pháp tối ưu:** Bạn nên tải trước tài liệu hoặc đề cương môn học vào hệ thống trước khi đặt câu hỏi để Gemini có thể đưa ra câu trả lời bám sát chương trình học.
